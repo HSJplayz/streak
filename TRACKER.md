@@ -6,7 +6,7 @@ Strength of the streak = **real work every single day**, not empty commits.
 
 | Day | Date | Project | Repo | Status | What I learned |
 |-----|------|---------|------|--------|----------------|
-| 1   | 2026-08-29 | File Organizer | [file-organizer](https://github.com/HSJplayz/file-organizer) | ✅ Done | pathlib, shutil, argparse, safe file-move + undo pattern |
+| 1   | 2026-08-29 | File Organizer | [file-organizer](https://github.com/HSJplayz/file-organizer) | ✅ Done | pathlib, shutil, argparse, safe file-move + undo-log + dedup patterns |
 | 2   |  |  |  |  |  |
 | 3   |  |  |  |  |  |
 | 4   |  |  |  |  |  |
