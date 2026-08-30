@@ -7,7 +7,7 @@ Strength of the streak = **real work every single day**, not empty commits.
 | Day | Date | Project | Repo | Status | What I learned |
 |-----|------|---------|------|--------|----------------|
 | 1   | 2026-08-29 | File Organizer | [file-organizer](https://github.com/HSJplayz/file-organizer) | ✅ Done | pathlib, shutil, argparse, safe file-move + undo-log + dedup patterns |
-| 2   |  |  |  |  |  |
+| 2   | 2026-08-29 | To-Do Manager CLI | [todo-manager](https://github.com/HSJplayz/todo-manager) | ✅ Done | argparse subcommands, JSON persistence, priorities/due dates, automated tests |
 | 3   |  |  |  |  |  |
 | 4   |  |  |  |  |  |
 | 5   |  |  |  |  |  |
