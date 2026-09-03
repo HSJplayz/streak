@@ -10,7 +10,7 @@ Strength of the streak = **real work every single day**, not empty commits.
 | 2   | 2026-08-29 | To-Do Manager CLI | [todo-manager](https://github.com/HSJplayz/todo-manager) | ✅ Done | argparse subcommands, JSON persistence, priorities/due dates, automated tests |
 | 3   | 2026-08-29 | Password Tool | [password-tool](https://github.com/HSJplayz/password-tool) | ✅ Done | secrets module, entropy math (log2), character-class coverage, brute-force estimates |
 | 4   | 2026-08-29 | URL Shortener | [url-shortener](https://github.com/HSJplayz/url-shortener) | ✅ Done | Flask + SQLite + JSON API, base62, 301 redirects, click tracking, free is.gd API |
-| 5   |  |  |  |  |  |
+| 5   | 2026-08-29 | Batch Rename Tool | [batch-rename](https://github.com/HSJplayz/batch-rename) | ✅ Done | regex module, counter templates, NTFS case-insensitive Path handling, undo-log pattern |
 | 6   |  |  |  |  |  |
 | 7   |  |  |  |  |  |
 | 8   |  |  |  |  |  |
