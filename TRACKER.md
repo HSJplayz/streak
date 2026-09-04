@@ -11,7 +11,7 @@ Strength of the streak = **real work every single day**, not empty commits.
 | 3   | 2026-08-29 | Password Tool | [password-tool](https://github.com/HSJplayz/password-tool) | ✅ Done | secrets module, entropy math (log2), character-class coverage, brute-force estimates |
 | 4   | 2026-08-29 | URL Shortener | [url-shortener](https://github.com/HSJplayz/url-shortener) | ✅ Done | Flask + SQLite + JSON API, base62, 301 redirects, click tracking, free is.gd API |
 | 5   | 2026-08-29 | Batch Rename Tool | [batch-rename](https://github.com/HSJplayz/batch-rename) | ✅ Done | regex module, counter templates, NTFS case-insensitive Path handling, undo-log pattern |
-| 6   |  |  |  |  |  |
+| 6   | 2026-08-29 | Web Scraper | [web-scraper](https://github.com/HSJplayz/web-scraper) | ✅ Done | requests + BeautifulSoup, CSS selectors, @attr extraction, encoding detection, polite rate-limiting |
 | 7   |  |  |  |  |  |
 | 8   |  |  |  |  |  |
 | 9   |  |  |  |  |  |
