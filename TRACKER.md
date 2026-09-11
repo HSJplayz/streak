@@ -13,7 +13,7 @@ Strength of the streak = **real work every single day**, not empty commits.
 | 5   | 2026-08-29 | Batch Rename Tool | [batch-rename](https://github.com/HSJplayz/batch-rename) | ✅ Done | regex module, counter templates, NTFS case-insensitive Path handling, undo-log pattern |
 | 6   | 2026-08-29 | Web Scraper | [web-scraper](https://github.com/HSJplayz/web-scraper) | ✅ Done | requests + BeautifulSoup, CSS selectors, @attr extraction, encoding detection, polite rate-limiting |
 | 7   | 2026-09-11 | System Health Monitor | [system-health-monitor](https://github.com/HSJplayz/system-health-monitor) | ✅ Done | psutil, cross-platform CPU/RAM/disk metrics, live `--watch` + `--json` modes, two-pass process sampling |
-| 8   |  |  |  |  |  |
+| 8   | 2026-09-11 | Markdown to HTML | [markdown-to-html](https://github.com/HSJplayz/markdown-to-html) | ✅ Done | Node.js, zero-dependency Markdown renderer, GFM tables, HTML-escaping, standalone styled pages, `node --test` suite |
 | 9   |  |  |  |  |  |
 | 10  |  |  |  |  |  |
 | 11  |  |  |  |  |  |
