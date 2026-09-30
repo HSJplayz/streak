@@ -16,7 +16,7 @@ Strength of the streak = **real work every single day**, not empty commits.
 | 8   | 2026-09-11 | Markdown to HTML | [markdown-to-html](https://github.com/HSJplayz/markdown-to-html) | ✅ Done | Node.js, zero-dependency Markdown renderer, GFM tables, HTML-escaping, standalone styled pages, `node --test` suite |
 | 9   | 2026-09-11 | Notes API | [notes-api](https://github.com/HSJplayz/notes-api) | ✅ Done | Node.js REST API (no framework), CRUD + search/tags/pagination, atomic JSON persistence + corrupt-file recovery, terminal client, CORS, `node --test` suite |
 | 10  | 2026-09-11 | Weather App | [weather-app](https://github.com/HSJplayz/weather-app) | ✅ Done | Open-Meteo (keyless), injectable fetch for offline tests, geocoding + direct lat,lon, ASCII CLI + web UI + JSON API, WMO code mapping |
-| 11  |  |  |  |  |  |
+| 11  | 2026-09-11 | Quiz App | [quiz-app](https://github.com/HSJplayz/quiz-app) | ✅ Done | zero-dep quiz engine, seeded Fisher–Yates shuffle for deterministic tests, shared engine powering CLI + web UI, JSON API, question bank as plain data, EOF-safe readline prompter |
 | 12  |  |  |  |  |  |
 | 13  |  |  |  |  |  |
 | 14  |  |  |  |  |  |
