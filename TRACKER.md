@@ -17,7 +17,7 @@ Strength of the streak = **real work every single day**, not empty commits.
 | 9   | 2026-09-11 | Notes API | [notes-api](https://github.com/HSJplayz/notes-api) | ✅ Done | Node.js REST API (no framework), CRUD + search/tags/pagination, atomic JSON persistence + corrupt-file recovery, terminal client, CORS, `node --test` suite |
 | 10  | 2026-09-11 | Weather App | [weather-app](https://github.com/HSJplayz/weather-app) | ✅ Done | Open-Meteo (keyless), injectable fetch for offline tests, geocoding + direct lat,lon, ASCII CLI + web UI + JSON API, WMO code mapping |
 | 11  | 2026-09-11 | Quiz App | [quiz-app](https://github.com/HSJplayz/quiz-app) | ✅ Done | zero-dep quiz engine, seeded Fisher–Yates shuffle for deterministic tests, shared engine powering CLI + web UI, JSON API, question bank as plain data, EOF-safe readline prompter |
-| 12  |  |  |  |  |  |
+| 12  | 2026-09-11 | GitHub Repo Explorer | [github-repo-explorer](https://github.com/HSJplayz/github-repo-explorer) | ✅ Done | GitHub REST API (token-free), injectable fetch for offline tests, star-sorted search + single-repo detail, shared core for CLI + web, CORS proxy, rate-limit handling |
 | 13  |  |  |  |  |  |
 | 14  |  |  |  |  |  |
 | 15  |  |  |  |  |  |
